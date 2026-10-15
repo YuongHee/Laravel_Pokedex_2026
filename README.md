@@ -14,12 +14,3 @@ Avant de commencer, assurez-vous d'avoir installé sur votre machine :
 - **Node.js** & **npm** (pour la compilation des assets)
 - **MySQL** ou **PostgreSQL** / **SQLite**
 
----
-
-## ⚙️ Installation & Configuration
-
-### 1. Cloner le dépôt
-
-```bash
-git clone [https://github.com/votre-nom-utilisateur/Laravel_Pokedex.git](https://github.com/votre-nom-utilisateur/Laravel_Pokedex.git)
-cd Laravel_Pokedex
