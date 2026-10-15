@@ -1,36 +1,59 @@
-# 🔴 Pokedex Laravel (2026)
+<div align="center">
 
-Application web de type **Pokédex** développée avec le framework PHP **Laravel**, permettant d'explorer, filtrer et gérer des Pokémon via une interface moderne.
+# 🔴 Laravel Pokédex (2026)
+
+<!-- Bannière du projet -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Pikachu" width="160" />
+
+Une application web complète de type **Pokédex** conçue avec **Laravel**, permettant de répertorier, filtrer et gérer des Pokémon dans une interface intuitive.
+
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+</div>
 
 ---
 
-## 🛠️ Stack technique
+## 📸 Aperçu de l'application
 
-- **Backend :** PHP (8.2+) / Laravel
-- **Frontend :** Blade / Tailwind CSS (ou Vite)
-- **Base de données :** MySQL / PostgreSQL / SQLite
-- **Gestionnaire de dépendances :** Composer & npm
+<!--
+Astuce : crée un dossier "docs/screenshots/" dans ton dépôt et glisses-y tes captures d'écran.
+Tu peux remplacer les URLs ci-dessous par tes propres images.
+-->
+
+| Liste des Pokémon & Filtres | Fiche Détail Pokémon |
+| :---: | :---: |
+| <img src="docs/screenshots/home.png" alt="Accueil du Pokédex" width="450" /> | <img src="docs/screenshots/details.png" alt="Détail du Pokémon" width="450" /> |
+
+| Gestion & Administration (CRUD) | Vue Mobile / Responsive |
+| :---: | :---: |
+| <img src="docs/screenshots/admin.png" alt="Panel Admin" width="450" /> | <img src="docs/screenshots/mobile.png" alt="Vue Mobile" width="220" /> |
 
 ---
 
 ## ✨ Fonctionnalités
 
-- 📋 **Liste des Pokémon :** Affichage en grille avec pagination et recherche rapide.
-- 🔍 **Fiches détaillées :** Types, statistiques de base, talents, évolutions et visuels.
-- 🏷️ **Filtres :** Tri par génération, type ou numéro du Pokédex.
-- ⚙️ **Gestion / Administration :** Création, modification et suppression (CRUD) de fiches Pokémon (selon les permissions).
+- 📋 **Catalogue complet :** Grille responsive avec affichage des sprites officiels et des types.
+- 🔍 **Recherche & Filtres :** Recherche par nom/ID et filtrage dynamique par type (Feu, Eau, Plante, etc.).
+- 📊 **Fiche détaillée :** Statistiques de base (PV, Attaque, Défense...), talents et chaîne d'évolution.
+- 🛠️ **Gestion (CRUD) :** Ajout, modification et suppression de Pokémon avec upload d'images.
 
 ---
 
-## 🚀 Installation & Lancement en local
+## 🛠️ Stack Technique
 
-### Prérequis
-- [PHP](https://www.php.net/) >= 8.2
-- [Composer](https://getcomposer.org/)
-- [Node.js & npm](https://nodejs.org/)
-- Un serveur de base de données local (MySQL, MariaDB ou SQLite)
+- **Backend :** PHP (8.2+) & Laravel
+- **Frontend :** Blade, Tailwind CSS (ou Vite)
+- **Base de données :** MySQL / MariaDB / SQLite
+- **Assets / Sprites :** Sprites Pokémon officiels & PokeAPI
 
-### 1. Cloner le dépôt
+---
+
+## 🚀 Installation & Démarrage
+
+### 1. Cloner le projet
 
 ```bash
 git clone [https://github.com/YuongHee/Laravel_Pokedex_2026.git](https://github.com/YuongHee/Laravel_Pokedex_2026.git)
