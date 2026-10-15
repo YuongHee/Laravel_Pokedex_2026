@@ -1,3 +1,61 @@
+# 🔴 Pokedex Laravel (2026)
+
+Application web de type **Pokédex** développée avec le framework PHP **Laravel**, permettant d'explorer, filtrer et gérer des Pokémon via une interface moderne.
+
+---
+
+## 🛠️ Stack technique
+
+- **Backend :** PHP (8.2+) / Laravel
+- **Frontend :** Blade / Tailwind CSS (ou Vite)
+- **Base de données :** MySQL / PostgreSQL / SQLite
+- **Gestionnaire de dépendances :** Composer & npm
+
+---
+
+## ✨ Fonctionnalités
+
+- 📋 **Liste des Pokémon :** Affichage en grille avec pagination et recherche rapide.
+- 🔍 **Fiches détaillées :** Types, statistiques de base, talents, évolutions et visuels.
+- 🏷️ **Filtres :** Tri par génération, type ou numéro du Pokédex.
+- ⚙️ **Gestion / Administration :** Création, modification et suppression (CRUD) de fiches Pokémon (selon les permissions).
+
+---
+
+## 🚀 Installation & Lancement en local
+
+### Prérequis
+- [PHP](https://www.php.net/) >= 8.2
+- [Composer](https://getcomposer.org/)
+- [Node.js & npm](https://nodejs.org/)
+- Un serveur de base de données local (MySQL, MariaDB ou SQLite)
+
+### 1. Cloner le dépôt
+
+```bash
+git clone [https://github.com/YuongHee/Laravel_Pokedex_2026.git](https://github.com/YuongHee/Laravel_Pokedex_2026.git)
+cd Laravel_Pokedex_2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
