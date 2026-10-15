@@ -16,23 +16,6 @@ Une application web complète de type **Pokédex** conçue avec **Laravel**, per
 
 ---
 
-## 📸 Aperçu de l'application
-
-<!--
-Astuce : crée un dossier "docs/screenshots/" dans ton dépôt et glisses-y tes captures d'écran.
-Tu peux remplacer les URLs ci-dessous par tes propres images.
--->
-
-| Liste des Pokémon & Filtres | Fiche Détail Pokémon |
-| :---: | :---: |
-| <img src="docs/screenshots/home.png" alt="Accueil du Pokédex" width="450" /> | <img src="docs/screenshots/details.png" alt="Détail du Pokémon" width="450" /> |
-
-| Gestion & Administration (CRUD) | Vue Mobile / Responsive |
-| :---: | :---: |
-| <img src="docs/screenshots/admin.png" alt="Panel Admin" width="450" /> | <img src="docs/screenshots/mobile.png" alt="Vue Mobile" width="220" /> |
-
----
-
 ## ✨ Fonctionnalités
 
 - 📋 **Catalogue complet :** Grille responsive avec affichage des sprites officiels et des types.
