@@ -1,0 +1,1 @@
+# Laravel_Pokedex_2026
